@@ -1,0 +1,1 @@
+print("sometimes we dont know tha value of moment until it's become a memory")
